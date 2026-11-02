@@ -32,7 +32,7 @@ dailook大佬源码网址: https://github.com/dailook/immortalwrt-mt798x-6.6
 
 使用p3terx云编译模板
 
-固件位置：https://github.com/leoveejo13-tech/Actions-MT798X-FC/edit/main/README.md
+固件位置：https://github.com/leoveejo13-tech/Actions-MT798X-FC
      
 注意事项：
 
